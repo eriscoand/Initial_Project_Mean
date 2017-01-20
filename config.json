@@ -1,0 +1,16 @@
+{
+	"api_url" 		: "/apiv1",
+	"images_folder" : "/images/",
+
+	"server_port"	: 5005,
+
+	"db_name"		: "database",	
+	"db_ip"			: "localhost",
+	"db_port"		: 27017,
+	"db_username"	: "",
+	"db_password"	: "",
+
+	"default_language" : "en",
+
+	"jwt" : { "secret" : "secret-token-string-ultra-secret!!", "expires": "2 days"	}
+}
